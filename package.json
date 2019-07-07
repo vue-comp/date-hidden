@@ -1,6 +1,8 @@
 {
   "name": "date-hidden",
-  "version": "1.0.8",
+  "version": "1.0.9",
+  "description": "Компонент для работы с Vuetify компонентом v-date-picker для скрытия/показа date-picker",
+  "main": "index.js",
   "author": {
     "name": "cartmnais"
   },
@@ -10,7 +12,6 @@
   },
   "homepage": "https://github.com/vue-comp/date-hidden",
   "license": "MIT",
-  "description": "Компонент для работы с Vuetify компонентом v-date-picker для скрытия/показа date-picker",
   "dependencies": {
     "vue": "^2.5.16",
     "vuetify": "^1.0.0"
